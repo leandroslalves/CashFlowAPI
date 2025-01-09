@@ -1,0 +1,12 @@
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\bin\Debug\net8.0\CashFlow.Comunication.deps.json
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\bin\Debug\net8.0\CashFlow.Comunication.dll
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\bin\Debug\net8.0\CashFlow.Comunication.pdb
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\CashFlow.Comunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\CashFlow.Comunication.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\CashFlow.Comunication.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\CashFlow.Comunication.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\CashFlow.Comunication.sourcelink.json
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\CashFlow.Comunication.dll
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\refint\CashFlow.Comunication.dll
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\CashFlow.Comunication.pdb
+C:\Users\leand\OneDrive\Documentos\ProjetosPortifólio\API\CashFlow\src\CashFlow.Comunication\obj\Debug\net8.0\ref\CashFlow.Comunication.dll
