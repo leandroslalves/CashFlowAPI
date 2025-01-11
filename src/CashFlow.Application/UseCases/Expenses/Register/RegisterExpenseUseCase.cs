@@ -1,5 +1,4 @@
-﻿using CashFlow.Comunication.Enums;
-using CashFlow.Comunication.Requests;
+﻿using CashFlow.Comunication.Requests;
 using CashFlow.Comunication.Responses;
 
 namespace CashFlow.Application.UseCases.Expenses.Register
@@ -16,9 +15,16 @@ namespace CashFlow.Application.UseCases.Expenses.Register
 
         private void Validate(RequestRegisterExepensesJson request)
         {
-           var validator = new RegisterExpenseValidator();
-           var result = validator.Validate(request);
+            var validator = new RegisterExpenseValidator();
+           
+            var result = validator.Validate(request);
 
+            if (!result.IsValid)
+            {
+                var errorMessages = result.Errors.Select(f => f.ErrorMessage).ToList();
+
+                throw new ArgumentException();
+            }
         }
     }
 }
